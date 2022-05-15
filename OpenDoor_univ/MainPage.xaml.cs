@@ -23,7 +23,7 @@ namespace OpenDoor_univ
     /// </summary>
     public sealed partial class MainPage : Page
     {
-        private string IP = "192.168.0.111:8090";
+        private string IP = "";
         private string read_xml = string.Empty;
         private string[] read_xml_array;
 
